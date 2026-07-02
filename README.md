@@ -1,4 +1,4 @@
-# Detec-o_de_Fraudes_em_Transa-es
+# Detecao_de_Fraudes_em_Transacoes
 * Fazendo Detecção de Fraudes com Bibliotecas do Python
 
 https://colab.research.google.com/drive/1Z4XtOpOTpaKrMJeCJru5ulbJb3CIlZ_c#scrollTo=_f5ADyHwxiUp
